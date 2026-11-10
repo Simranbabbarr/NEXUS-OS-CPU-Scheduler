@@ -105,7 +105,7 @@ NEXUS-OS-CPU-Scheduler/
 
 ## Author
 
-**YOUR NAME**
+Simran Babbar
 
 B.Tech – Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 
